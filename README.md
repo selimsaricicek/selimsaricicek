@@ -145,8 +145,7 @@ Coursework: Machine Learning, Data Science, Software Engineering, Database Syste
 
 ## Contact & Links
 
-**Email:** contactsaricicek@gmail.com  
-**Phone:** +90 555 163 62 56  
+**Email:** contactsaricicek@gmail.com   
 **LinkedIn:** [linkedin.com/in/kenanselimsaricicek](https://linkedin.com/in/kenanselimsaricicek)  
 **GitHub:** [github.com/selimsaricicek](https://github.com/selimsaricicek)  
 **Location:** Istanbul, Turkey
