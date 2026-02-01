@@ -137,7 +137,7 @@ Developed a Python-based client matching algorithm for a foreign trade firm, aut
 ## Education
 
 **Doğuş University**  
-Bachelor of Science - Computer Software Engineering (Jun 2023 - Present)
+Bachelor of Science - Computer Software Engineering
 
 Coursework: Machine Learning, Data Science, Software Engineering, Database Systems, Algorithms, NLP
 
